@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+img{
+     width: 150px;
+     height: 150px;
+}
+
+table{
+    background-color:antiquewhite;
+    margin-bottom: 20px;
+}
+
+table, th, td{
+    border : solid 1px black;
+    border-collapse: collapse;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: "HG創英角ﾎﾟｯﾌﾟ体", serif;
+    /* background-size: cover; */
+    background-size: contain;
+}
