@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.txt-blue{
+    color: blue;
+}
+
+.txt-red{
+    color: red;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-aqua{
+    background-color: aqua;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
