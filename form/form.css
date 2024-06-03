@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+input[type]{
+    margin-right: 0.5rem;
+}
+
+input[type]{
+    margin-bottom: 0.8rem;
+}
+
+.kiyaku{
+    font-size: 0.7rem;
+}
