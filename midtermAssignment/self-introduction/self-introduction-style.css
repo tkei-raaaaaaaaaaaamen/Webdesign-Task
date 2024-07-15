@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.mark-list {
+    list-style: "★";
+}
+
+
+.gazou {
+    display: flex;
+}
+
+.gazou img {
+    list-style: none;
+}
+
+.gazou_s {
+    width: 70%;
+    height: 60%;
+    display: block;
+    margin: auto;
+}
+
+a {
+    list-style: none;
+}

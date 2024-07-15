@@ -1,0 +1,40 @@
+table,
+th,
+td {
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+th {
+    background-color: rgba(87, 87, 87, 0.968);
+    color: aliceblue;
+}
+
+td {
+    background-color: white;
+}
+
+img {
+    width: 80%;
+    margin: auto;
+}
+
+ul.yubi {
+    list-style: url(it-img/list3.gif);
+    list-style-position: inside;
+}
+
+
+h1,
+h2 {
+    color: #364e96;
+    background-color: white;
+    border: solid 3px #364e96;
+    padding: 0.1em;
+    border-radius: 0.5em;
+}

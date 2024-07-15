@@ -1,0 +1,27 @@
+main {
+    width: 70%;
+    margin: auto;
+}
+
+h3,
+img,
+h5 {
+    padding: 0;
+    margin: 0;
+    line-height: 1.0;
+}
+
+h3 {
+    line-height: 1.6;
+    letter-spacing: 0.05em;
+}
+
+h1,
+h2 {
+    color: #364e96;
+    border: solid 3px #364e96;
+    background-color: white;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+table,
+th,
+td {
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: rgba(87, 87, 87, 0.968);
+    color: aliceblue;
+}
+
+td {
+    background-color: white;
+}
+
+table {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 5rem;
+}
